@@ -24,5 +24,5 @@ redirect_from:
   Ministry of Education of China, 2025
   * Awarded to top 1% of undergraduate students for outstanding academic performance
 * **First Prize, Beijing Division, China Undergraduate Mathematical Contest (Non-Mathematics Category A)**
-  Chinese Mathematical Society, 2024
+  Chinese Mathematical Society, 2025
   * Top award in Beijing for non-mathematics majors in the national undergraduate math competition
