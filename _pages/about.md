@@ -13,4 +13,4 @@ Hi, I'm Yifan Liu, a sophomore majoring in Computer Science and Technology.
 
 My research interests focus on **Computer Vision** and **Large Language Model**.
 
-You can find my projects on my [GitHub](sslocal://flow/file_open?url=https%3A%2F%2Fgithub.com%2FYifan-Liu2006&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=).
+
