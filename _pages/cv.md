@@ -9,56 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Bachelor of Science in Computer Science and Technology**
+  Minzu University of China, 2024 - 2028 (Expected)
+  * Focus: Computer Vision, Large Language Model
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Skills
+* **Programming Languages**: C/C++, Python, Java, SQL
+* **Technical Stack**: Git, GitHub Pages
+* **Research Interests**: Computer Vision, Large Language Model
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Awards & Honors
+* **National Scholarship**
+  Ministry of Education of China, 2025
+  * Awarded to top 1% of undergraduate students for outstanding academic performance
+* **First Prize, Beijing Division, China Undergraduate Mathematical Contest (Non-Mathematics Category A)**
+  Chinese Mathematical Society, 2024
+  * Top award in Beijing for non-mathematics majors in the national undergraduate math competition
